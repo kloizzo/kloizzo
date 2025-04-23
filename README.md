@@ -23,17 +23,6 @@ I’m **Kayla**, a dedicated full-stack web developer with a passion for buildin
 
 ---
 
-## Selected Projects
-
-- **Interactive Learning Platform**  
-  React-based web app with real-time collaboration, Node.js backend, and PostgreSQL  
-- **E-Commerce API**  
-  RESTful endpoints for inventory & orders, Dockerized and deployed on AWS  
-- **Portfolio Showcase**  
-  Next.js & Tailwind CSS site featuring dynamic project galleries and a CMS-driven blog  
-
----
-
 ## Let’s Connect
 
 I’m always open to collaborating on meaningful projects, sharing knowledge, and exploring new technologies. Feel free to browse my repositories below, submit an issue, or reach out on [LinkedIn](https://www.linkedin.com/in/kayla-loizzo).  
