@@ -1,38 +1,41 @@
 # Howdy, Friend! 👋
 
-Welcome to the coding carnival that is my GitHub! I'm Kayla, your friendly neighborhood full-stack web wizard 🕸️. JavaScript is my jam, with a sprinkle of TypeScript and Python to keep things spicy. Together, let's dive into the dazzling world of web development!
-
-## The Tech Tango 💃🕺
-
-Behold, the tools of my trade:
-
-- **Languages:** JavaScript, In-progress: TypeScript, Python
-- **Front-End:** HTML5, CSS3, React.js, TailwindCSS, Anime.js
-- **Back-End:** Node.js, Express, PostgreSQL, MongoDB, MySQL, RESTful API, Artificial Intelligence
-- **Testing/Deployment:** Jest, Mocha, Chai, AWS (EC2 / RDS / S3)
-- **Developer Tools:**  Vim, Git, npm, Nx, Webpack, Babel, Agile Methodology, Scrum, TDD, Vite, VS Code
-
-## From Teacher to Code Conjurer 🎩✨
-
-In a past life, I was a master of the classroom, wielding knowledge like a pro. But then, the allure of Python's simplicity beckoned, and I embarked on a coding adventure. Fast forward, and I have emerged from Hack Reactor's Intermediate 12-week bootcamp as a full-stack developer 🚀.
-
-## Lessons from the Classroom 📚🎓
-
-Teaching for 4 years has taught me the art of breaking down complexity and nurturing curious minds. These skills have become my secret ingredients for crafting code that is intriguing.
-
-## A Symphony of Code and Creativity 🎵🎉
-
-Get ready to feast your eyes on a parade of projects that blend imagination and innovation. We're talking dazzling web apps, captivating user interfaces, and more code-fueled wonders than you can shake a cursor at. Each line of code is a brushstroke on the canvas of the digital realm.
-
-## Let's Jam! 🎸🎤
-
-I'm not just another coder; I'm a collaborator and an enthusiast. Whether you're a fellow coder, a curious learner, or just someone who loves a good tech chat, I'm all ears! Slide into my DMs via my GitHub repos or connect with me on [LinkedIn](https://www.linkedin.com/in/kayla-loizzo) for a virtual cup of code.
-
-Together, we'll bend the web to our will and code a brighter tomorrow!
-
-Stay curious and keep coding,
-Kayla 🚀
+I’m **Kayla**, a dedicated full-stack web developer with a passion for building clean, maintainable, and user-focused applications. After four years as an educator, I transitioned into software development and haven't looked back since. I traded in my days of rangling children for rangling bugs instead. It wasn't for nothing though, throughout my work I often make use of my ability to break down complex concepts and communicate effectively to craft elegant solutions in code.
 
 ---
 
-*P.S. Explore my repositories below, where the web comes to life, one keystroke at a time!*
+## Technical Expertise
+
+- **Languages:** JavaScript (ES6+), (Beginner knowledge of: TypeScript, Python)
+- **Front-End:** HTML5, CSS3, React.js, Next.js, Tailwind CSS, Anime.js
+- **Back-End:** Node.js, Express, PostgreSQL, MongoDB, MySQL, Firebase, RESTful APIs
+- **Testing & Deployment:** Jest, Mocha & Chai, AWS (EC2, RDS, S3), Docker, Netlify
+- **Tools & Practices:** Git, npm, Vite, Webpack, Babel, VS Code, Expo, Agile & Scrum
+
+---
+
+## Professional Journey
+
+- **Hack Reactor Intermediate Bootcamp**  
+  12-week software engineering immersive program with over 1,000 hours of coding. Full-stack development with JavaScript, React, Express, PostgreSQL, MongoDB, and MySQL in an Agile environment. Worked on projects in teams with other software engineers Monday-Saturday, 10 hours per day.
+- **Former Classroom Teacher**  
+  4 years of experience planning lessons, simplifying complex topics, and guiding learners. Was certified to teach K-6, Special Ed, and English Language Learners.
+
+---
+
+## Selected Projects
+
+- **Interactive Learning Platform**  
+  React-based web app with real-time collaboration, Node.js backend, and PostgreSQL  
+- **E-Commerce API**  
+  RESTful endpoints for inventory & orders, Dockerized and deployed on AWS  
+- **Portfolio Showcase**  
+  Next.js & Tailwind CSS site featuring dynamic project galleries and a CMS-driven blog  
+
+---
+
+## Let’s Connect
+
+I’m always open to collaborating on meaningful projects, sharing knowledge, and exploring new technologies. Feel free to browse my repositories below, submit an issue, or reach out on [LinkedIn](https://www.linkedin.com/in/kayla-loizzo).  
+
+Together, let’s build something exceptional!
